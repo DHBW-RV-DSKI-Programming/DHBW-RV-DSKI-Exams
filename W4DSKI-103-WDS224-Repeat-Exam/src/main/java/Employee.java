@@ -1,0 +1,1 @@
+package main.java;// TODO: Hier Aufgabe 6 implementieren

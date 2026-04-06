@@ -8,6 +8,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS224-Repeat-Exam" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS224-Repeat-Exam-Muster" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Exam" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Exam-Muster" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Practice-Exam" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Practice-Exam-2" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Practice-Exam-2-Muster" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Practice-Exam-3" />
+            <option value="$PROJECT_DIR$/W4DSKI-103-WDS225-Practice-Exam-Muster" />
             <option value="$PROJECT_DIR$/W4DSKI-105-WDS224-Exam" />
             <option value="$PROJECT_DIR$/W4DSKI-105-WDS224-Exam-Muster" />
           </set>
