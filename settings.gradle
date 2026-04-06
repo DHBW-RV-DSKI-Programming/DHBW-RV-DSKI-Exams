@@ -1,0 +1,3 @@
+rootProject.name = 'DHBW-RV-DSKI-Exams'
+include 'W4DSKI-105-WDS224-Exam'
+include 'W4DSKI-105-WDS224-Exam-Muster'
